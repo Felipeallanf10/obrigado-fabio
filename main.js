@@ -1,8 +1,9 @@
+/*
+
 var btn = document.getElementsByClassName('.item .botaoo')
 var gostei = document.getElementsByClassName('.gostei')
 var box = document.querySelector('.botao')
 
-/*
 btn.addEventListener('click', function () {
   if (gostei.style.display === 'none') {
     gostei.style.display = 'flex'
@@ -10,7 +11,6 @@ btn.addEventListener('click', function () {
     gostei.style.display = 'none'
   }
 })
-*/
 
 function gostar() {
   box.innerHTML = `
@@ -18,6 +18,8 @@ function gostar() {
                 class="gostei"
                 src="./assets/Logotipo de hamburgueria grunge preto e branco.png"
                 alt=""
-              />
-  `
-}
+                />
+                `
+              }
+              
+              */
