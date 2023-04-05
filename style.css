@@ -191,7 +191,17 @@ header a ::marker {
   color: inherit;
 }
 
+.gostei{
+  display: none;
+  width: 45px;
+  transform: rotate(30deg);
+}
 
+.botao{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
 @media screen {
   
 }
