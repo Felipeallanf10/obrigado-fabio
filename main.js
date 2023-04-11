@@ -16,6 +16,16 @@ const btn15 = document.querySelector('#b15')
 const btn16 = document.querySelector('#b16')
 const btn17 = document.querySelector('#b17')
 const btn18 = document.querySelector('#b18')
+const btn19 = document.querySelector('#b19')
+const btn20 = document.querySelector('#b20')
+const btn21 = document.querySelector('#b21')
+const btn22 = document.querySelector('#b22')
+const btn23 = document.querySelector('#b23')
+const btn24 = document.querySelector('#b24')
+const btn25 = document.querySelector('#b25')
+const btn26 = document.querySelector('#b26')
+const btn27 = document.querySelector('#b27')
+
 
 const like1 = document.querySelector('#bb1')
 const like2 = document.querySelector('#bb2')
@@ -35,6 +45,16 @@ const like15 = document.querySelector('#bb15')
 const like16 = document.querySelector('#bb16')
 const like17 = document.querySelector('#bb17')
 const like18 = document.querySelector('#bb18')
+const like19 = document.querySelector('#bb19')
+const like20 = document.querySelector('#bb20')
+const like21 = document.querySelector('#bb21')
+const like22 = document.querySelector('#bb22')
+const like23 = document.querySelector('#bb23')
+const like24 = document.querySelector('#bb24')
+const like25 = document.querySelector('#bb25')
+const like26 = document.querySelector('#bb26')
+const like27 = document.querySelector('#bb27')
+
 
 btn1.addEventListener('click', function () {
   if (like1.style.display === 'none') {
@@ -180,6 +200,107 @@ btn18.addEventListener('click', function () {
 
 
 })
+
+btn19.addEventListener('click', function () {
+  if (like19.style.display === 'none') {
+    like19.style.display = 'flex'
+  } else {
+    like19.style.display = 'none'
+  }
+
+
+})
+
+btn20.addEventListener('click', function () {
+  if (like20.style.display === 'none') {
+    like20.style.display = 'flex'
+  } else {
+    like20.style.display = 'none'
+  }
+
+
+})
+
+btn21.addEventListener('click', function () {
+  if (like21.style.display === 'none') {
+    like21.style.display = 'flex'
+  } else {
+    like21.style.display = 'none'
+  }
+
+
+})
+
+btn22.addEventListener('click', function () {
+  if (like22.style.display === 'none') {
+    like22.style.display = 'flex'
+  } else {
+    like22.style.display = 'none'
+  }
+
+
+})
+btn22.addEventListener('click', function () {
+  if (like22.style.display === 'none') {
+    like22.style.display = 'flex'
+  } else {
+    like22.style.display = 'none'
+  }
+
+
+})
+
+btn23.addEventListener('click', function () {
+  if (like23.style.display === 'none') {
+    like23.style.display = 'flex'
+  } else {
+    like23.style.display = 'none'
+  }
+
+
+})
+
+btn24.addEventListener('click', function () {
+  if (like24.style.display === 'none') {
+    like24.style.display = 'flex'
+  } else {
+    like24.style.display = 'none'
+  }
+
+
+})
+btn25.addEventListener('click', function () {
+  if (like25.style.display === 'none') {
+    like25.style.display = 'flex'
+  } else {
+    like25.style.display = 'none'
+  }
+
+
+})
+
+btn26.addEventListener('click', function () {
+  if (like26.style.display === 'none') {
+    like26.style.display = 'flex'
+  } else {
+    like26.style.display = 'none'
+  }
+
+
+})
+
+btn27.addEventListener('click', function () {
+  if (like27.style.display === 'none') {
+    like27.style.display = 'flex'
+  } else {
+    like27.style.display = 'none'
+  }
+
+
+})
+
+
+
 
 
 
